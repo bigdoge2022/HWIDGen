@@ -1,0 +1,31 @@
+HWIDGen_CN 版本: v10.11
+系统检测:
+描述: Windows(R) Operating System, RETAIL channel
+版本号: 22000.1
+系统类型: x64
+部份密钥: 3V66T
+版本: Professional
+状态 通知状态
+
+开始数字激活 2022 2月26 20:02:04...
+
+安装密钥 VK7JG-NPHTM-C97JM-9MPGT-3V66T...
+成功地安装了产品密钥 VK7JG-NPHTM-C97JM-9MPGT-3V66T。
+
+添加注册表项...
+执行GatherOsState.exe 获取门票...
+删除注册表项...
+
+应用门票 GenuineTicket.xml...
+Done.
+Converted license Microsoft.Windows.48.X19-98841_8wekyb3d8bbwe and stored at C:\ProgramData\Microsoft\Windows\ClipSvc\Install\Migration\c4ffa64c-e275-451d-9375-988fb6c6371b.xml.
+Successfully converted 1 licenses from genuine authorization tickets on disk.
+Done.
+
+正在激活...
+正在激活 Windows(R), Professional edition (4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c) ...
+成功地激活了产品。
+
+激活 Professional 成功!
+
+
